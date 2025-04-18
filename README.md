@@ -33,9 +33,7 @@
 - [Zomato Data Analysis](https://github.com/abhishekchoudhary88/Zomato-project)
 - [Netflix Movies Data Analysis](https://github.com/abhishekchoudhary88/movie-data-anlaysis-netflix)
 
----
-
-## 📫 Connect with me:
+--- 
 
 ## 📫 Connect with me:
 
