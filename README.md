@@ -37,4 +37,6 @@
 
 ## 📫 Connect with me:
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekchoudhary88/](https://www.linkedin.com/in/abhishek-choudhary-65012a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+## 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-choudhary-65012a303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
