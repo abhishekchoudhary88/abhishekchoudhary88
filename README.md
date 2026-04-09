@@ -1,104 +1,121 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">Data Science Intern | Machine Learning & Deep Learning Enthusiast | Aspiring AI Engineer</h3>
+<h3 align="center">🚀 Data Science Intern | 🤖 AI & ML Enthusiast | 📊 Aspiring Machine Learning Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Abhishek Choudhary**, a dedicated **Data Science Intern** and **BCA student**, passionate about leveraging data to build intelligent systems and solve real-world problems.
+I’m **Abhishek Choudhary**, a passionate **Data Science Intern** and **BCA student**, focused on building intelligent systems using data.
 
-I specialize in **Machine Learning, Deep Learning, and Data Analysis**, with a growing focus on **Natural Language Processing (NLP)** and **Transformer-based architectures**.
+💡 I specialize in:
 
-I enjoy working on end-to-end projects — from **data preprocessing and feature engineering** to **model building, evaluation, and deployment**.
+* **Machine Learning & Deep Learning**
+* **Data Analysis & Visualization**
+* **Natural Language Processing (NLP)**
+* **Transformer-based Models (BERT, GPT - Learning Phase)**
 
-💡 I strongly believe in:
-- Continuous Learning  
-- Writing Clean & Scalable Code  
-- Data-Driven Decision Making  
+🔍 I enjoy solving real-world problems by working on **end-to-end ML projects** — from data preprocessing to model deployment.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I’m Doing
 
-- 🔭 Currently working as a **Data Science Intern**
-- 🤖 Building and experimenting with **Machine Learning & Deep Learning models**
-- 🧠 Exploring **NLP, Transformers, and AI applications**
-- 📊 Performing **EDA, Feature Engineering, and Model Evaluation**
-- ⚙️ Working on **Model Deployment (Streamlit & APIs)**
+* 🔭 Working on **Machine Learning & AI projects**
+* 🤖 Exploring **Deep Learning & Transformer Models**
+* 📊 Performing **EDA, Feature Engineering & Model Optimization**
+* ⚙️ Building **interactive ML web apps using Streamlit**
+* 🌐 Learning **API-based deployment (Flask / FastAPI)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Programming & Data Analysis**
-- Python, Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Jupyter Notebook  
+### 👨‍💻 Programming & Data
 
-### **Machine Learning**
-- Scikit-Learn  
-- Supervised & Unsupervised Learning  
-- Model Evaluation & Optimization  
+* Python, SQL
+* Pandas, NumPy
 
-### **Deep Learning**
-- Neural Networks (ANN, CNN basics)  
-- Introduction to **Transformers & NLP models**  
-- Frameworks: (Learning) TensorFlow / PyTorch  
+### 📊 Data Visualization
 
-### **Natural Language Processing (NLP)**
-- Text Preprocessing  
-- Tokenization, Vectorization  
-- Working with NLP pipelines  
-- Exploring Transformer models like BERT (learning phase)  
+* Matplotlib, Seaborn
+* Power BI, Tableau
 
-### **Visualization Tools**
-- Power BI  
-- Tableau  
+### 🤖 Machine Learning
 
-### **Databases & Tools**
-- SQL (MySQL)  
-- Git & GitHub  
-- VS Code  
+* Scikit-learn
+* Regression, Classification, Clustering
+* Feature Engineering & Model Evaluation
+* Hyperparameter Tuning
+
+### 🧠 Deep Learning
+
+* Neural Networks (ANN, CNN Basics)
+* Introduction to RNN & LSTM
+* Frameworks: TensorFlow / PyTorch *(Learning Phase)*
+
+### 🗣️ NLP & Transformers
+
+* Text Preprocessing & Tokenization
+* TF-IDF / Vectorization
+* Sentiment Analysis
+* Exploring **BERT, GPT & Hugging Face**
+
+### ⚙️ Tools & Technologies
+
+* Jupyter Notebook
+* Git & GitHub
+* VS Code
+* Streamlit
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔥 **Major Projects**
+### 🎬 Movie Recommendation System (ML + NLP Project)
 
-#### 🧠 Laptop Price Prediction (ML Project)
-- Data Cleaning & Preprocessing  
-- EDA & Feature Engineering  
-- Models: Random Forest, Linear Regression, SVR  
-- Streamlit-based Web App  
-🔗 *(Add repo link when uploaded)*  
-
----
-
-#### 🌍 Life Expectancy Prediction
-- Data Analysis & Outlier Handling  
-- ML Models: Logistic Regression, Decision Tree, Gradient Boosting  
-- Performance Comparison & Evaluation  
-🔗 *(Add repo link when uploaded)*  
+* Content-Based Recommendation System
+* Cosine Similarity & Text Vectorization
+* Built using **Pandas, Scikit-learn & NLP techniques**
+* Streamlit Web App for real-time recommendations
+  🔗 *(Add GitHub repo link here)*
 
 ---
 
-### 🎯 **Previous Projects**
+### 💻 Laptop Price Prediction
 
-#### 🍽️ Zomato Data Analysis  
-🔗 https://github.com/abhishekchoudhary88/Zomato-project  
-
-#### 🎬 Netflix Movies & Shows Analysis  
-🔗 https://github.com/abhishekchoudhary88/movie-data-anlaysis-netflix  
+* Data Cleaning & Feature Engineering
+* ML Models: Random Forest, Linear Regression, SVR
+* Model Evaluation & Optimization
+* Deployed using Streamlit
+  🔗 *(Add repo link)*
 
 ---
 
-## 📊 GitHub Insights
+### 🌍 Life Expectancy Prediction
+
+* Data Analysis & Outlier Handling
+* Models: Decision Tree, Gradient Boosting
+* Comparative performance analysis
+  🔗 *(Add repo link)*
+
+---
+
+### 📊 Other Projects
+
+* 🍽️ Zomato Data Analysis
+  🔗 https://github.com/abhishekchoudhary88/Zomato-project
+
+* 🎬 Netflix Movies Analysis
+  🔗 https://github.com/abhishekchoudhary88/movie-data-anlaysis-netflix
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekchoudhary88&show_icons=true&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchoudhary88&layout=compact&theme=radical" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekchoudhary88&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchoudhary88&layout=compact&theme=tokyonight" height="180px"/>
 
 </div>
 
@@ -106,20 +123,36 @@ I enjoy working on end-to-end projects — from **data preprocessing and feature
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning Algorithms  
-- Deep Learning Architectures  
-- NLP & Transformer Models  
-- Model Deployment (Flask / FastAPI)  
+* 🔥 Advanced Machine Learning
+* 🤖 Deep Learning Architectures
+* 🧠 NLP & Transformer Models
+* ⚙️ Backend Deployment (Flask / FastAPI)
 
 ---
 
-## 🤝 Connect with Me
+## 🎯 Career Goal
 
-- 📫 Email: **abhisekchoudhary88@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303  
-- 📸 Instagram: https://www.instagram.com/__abhiichoudhary  
-- 💻 GitHub: https://github.com/abhishekchoudhary88  
+To become a **Machine Learning Engineer / AI Engineer**, building scalable and intelligent systems that solve real-world problems.
 
 ---
 
-⭐ **If you find my work valuable, consider giving a star to my repositories!**
+## 🤝 Connect With Me
+
+* 📧 Email: **[abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)**
+* 💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303
+* 💻 GitHub: https://github.com/abhishekchoudhary88
+* 📸 Instagram: https://www.instagram.com/__abhiichoudhary
+
+---
+
+## ⭐ Support
+
+If you like my work:
+
+* ⭐ Star my repositories
+* 🍴 Fork projects
+* 🤝 Connect with me
+
+---
+
+💡 *“Turning data into insights and ideas into intelligent systems.”*
