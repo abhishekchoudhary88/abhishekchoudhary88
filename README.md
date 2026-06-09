@@ -1,158 +1,168 @@
-<h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">🚀 Data Science Intern | 🤖 AI & ML Enthusiast | 📊 Aspiring Machine Learning Engineer</h3>
+# Hi 👋, I'm Abhishek Choudhary
+
+### 🚀 Data Scientist | 🤖 AI & Machine Learning Engineer | 📊 Generative AI Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m **Abhishek Choudhary**, a passionate **Data Science Intern** and **BCA student**, focused on building intelligent systems using data.
+I am a passionate Data Science and Artificial Intelligence enthusiast pursuing a Bachelor of Computer Applications (BCA). With hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Generative AI, I enjoy building intelligent systems that transform data into actionable insights and business value.
 
-💡 I specialize in:
-
-* **Machine Learning & Deep Learning**
-* **Data Analysis & Visualization**
-* **Natural Language Processing (NLP)**
-* **Transformer-based Models (BERT, GPT - Learning Phase)**
-
-🔍 I enjoy solving real-world problems by working on **end-to-end ML projects** — from data preprocessing to model deployment.
+My expertise spans the complete AI development lifecycle, including data preprocessing, exploratory data analysis, feature engineering, predictive modeling, model deployment, and AI application development. I am continuously exploring cutting-edge technologies such as Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Transformer architectures, and AI Agents.
 
 ---
 
-## 🚀 What I’m Doing
+## 💼 Professional Experience
 
-* 🔭 Working on **Machine Learning & AI projects**
-* 🤖 Exploring **Deep Learning & Transformer Models**
-* 📊 Performing **EDA, Feature Engineering & Model Optimization**
-* ⚙️ Building **interactive ML web apps using Streamlit**
-* 🌐 Learning **API-based deployment (Flask / FastAPI)**
+### Data Science & AI Intern
+
+**RNS IT Solutions & Vaani AI** | March 2026 – June 2026
+
+* Developed Machine Learning and Deep Learning solutions using real-world datasets.
+* Built AI-powered chatbot applications leveraging NLP, Transformers, and Generative AI concepts.
+* Worked on Retrieval-Augmented Generation (RAG) systems for intelligent document search and question answering.
+* Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling.
+* Designed interactive dashboards and business intelligence reports using Power BI.
+* Collaborated on AI-driven applications and data-centric solutions for real-world business challenges.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
 
-### 👨‍💻 Programming & Data
+### 🤖 Artificial Intelligence & Machine Learning
 
-* Python, SQL
-* Pandas, NumPy
-
-### 📊 Data Visualization
-
-* Matplotlib, Seaborn
-* Power BI, Tableau
-
-### 🤖 Machine Learning
-
-* Scikit-learn
-* Regression, Classification, Clustering
-* Feature Engineering & Model Evaluation
+* Supervised & Unsupervised Learning
+* Regression, Classification & Clustering
+* Feature Engineering & Model Optimization
 * Hyperparameter Tuning
+* Ensemble Learning Techniques
 
 ### 🧠 Deep Learning
 
-* Neural Networks (ANN, CNN Basics)
-* Introduction to RNN & LSTM
-* Frameworks: TensorFlow / PyTorch *(Learning Phase)*
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+* LSTM Networks
+* TensorFlow & PyTorch
 
-### 🗣️ NLP & Transformers
+### 💬 NLP & Generative AI
 
-* Text Preprocessing & Tokenization
-* TF-IDF / Vectorization
+* Text Preprocessing & Vectorization
+* TF-IDF & Word Embeddings
 * Sentiment Analysis
-* Exploring **BERT, GPT & Hugging Face**
+* Transformer Architectures
+* BERT & GPT Models
+* Prompt Engineering
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Chatbot Development
 
-### ⚙️ Tools & Technologies
+### 📊 Data Analytics & Visualization
 
-* Jupyter Notebook
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Data Storytelling
+* Power BI & Tableau Dashboards
+* Matplotlib & Seaborn
+
+---
+
+## 🛠️ Technology Stack
+
+**Programming Languages**
+
+* Python
+* SQL
+
+**Libraries & Frameworks**
+
+* Pandas
+* NumPy
+* Scikit-learn
+* TensorFlow
+* PyTorch
+
+**Visualization Tools**
+
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
+
+**Development Tools**
+
 * Git & GitHub
 * VS Code
+* Jupyter Notebook
 * Streamlit
+* Flask
+* FastAPI
 
 ---
 
 ## 📂 Featured Projects
 
-### 🎬 Movie Recommendation System (ML + NLP Project)
+### 🤖 AI Data Science Copilot
 
-* Content-Based Recommendation System
-* Cosine Similarity & Text Vectorization
-* Built using **Pandas, Scikit-learn & NLP techniques**
-* Streamlit Web App for real-time recommendations
-  🔗 *(Add GitHub repo link here)*
+AI-powered assistant for data analysis, visualization, machine learning workflows, and automated insight generation.
 
----
+### 🔐 Cyber Security AI Assistant
+
+Generative AI-based assistant designed to provide cybersecurity guidance, incident response support, and troubleshooting recommendations.
+
+### 📚 Multi-Agent RAG System
+
+Advanced Retrieval-Augmented Generation system integrating vector databases, semantic search, and multiple AI agents for intelligent document understanding.
+
+### 🎬 Movie Recommendation System
+
+Content-based recommendation engine using NLP, cosine similarity, and vectorization techniques with Streamlit deployment.
 
 ### 💻 Laptop Price Prediction
 
-* Data Cleaning & Feature Engineering
-* ML Models: Random Forest, Linear Regression, SVR
-* Model Evaluation & Optimization
-* Deployed using Streamlit
-  🔗 *(Add repo link)*
+Machine Learning application utilizing feature engineering, model optimization, and deployment for accurate laptop price estimation.
 
----
+### 🚗 Cars24 Car Price Prediction
 
-### 🌍 Life Expectancy Prediction
+Predictive analytics project for used car valuation using advanced regression models and data preprocessing techniques.
 
-* Data Analysis & Outlier Handling
-* Models: Decision Tree, Gradient Boosting
-* Comparative performance analysis
-  🔗 *(Add repo link)*
+### 📊 Data Analytics Projects
 
----
-
-### 📊 Other Projects
-
-* 🍽️ Zomato Data Analysis
-  🔗 https://github.com/abhishekchoudhary88/Zomato-project
-
-* 🎬 Netflix Movies Analysis
-  🔗 https://github.com/abhishekchoudhary88/movie-data-anlaysis-netflix
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekchoudhary88&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekchoudhary88&layout=compact&theme=tokyonight" height="180px"/>
-
-</div>
+* Zomato Data Analysis
+* Netflix Movies Analysis
+* Life Expectancy Prediction
 
 ---
 
 ## 🌱 Currently Learning
 
-* 🔥 Advanced Machine Learning
-* 🤖 Deep Learning Architectures
-* 🧠 NLP & Transformer Models
-* ⚙️ Backend Deployment (Flask / FastAPI)
+* Advanced Deep Learning Architectures
+* Transformer Models & Fine-Tuning
+* Agentic AI Systems
+* Multi-Agent Frameworks
+* MLOps & Model Deployment
+* Production-Ready Generative AI Applications
 
 ---
 
-## 🎯 Career Goal
+## 🎯 Career Objective
 
-To become a **Machine Learning Engineer / AI Engineer**, building scalable and intelligent systems that solve real-world problems.
+To become an AI Engineer and Machine Learning Specialist capable of designing scalable, production-ready AI systems that solve complex real-world challenges through data, machine learning, and generative artificial intelligence.
 
 ---
 
 ## 🤝 Connect With Me
 
-* 📧 Email: **[abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)**
-* 💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303
-* 💻 GitHub: https://github.com/abhishekchoudhary88
-* 📸 Instagram: https://www.instagram.com/__abhiichoudhary
+📧 Email: [abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303
+
+💻 GitHub: https://github.com/abhishekchoudhary88
+
+📸 Instagram: https://www.instagram.com/__abhiichoudhary
 
 ---
 
-## ⭐ Support
+### 💡 Motto
 
-If you like my work:
-
-* ⭐ Star my repositories
-* 🍴 Fork projects
-* 🤝 Connect with me
-
----
-
-💡 *“Turning data into insights and ideas into intelligent systems.”*
+*"Transforming Data into Intelligence and Building AI Solutions for the Future."*
