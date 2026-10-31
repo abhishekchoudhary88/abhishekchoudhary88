@@ -1,405 +1,97 @@
-**# Hi 👋, I'm Abhishek Choudhary
+# Hi 👋, I'm Abhishek Choudhary
 
-### 🚀 Data Scientist | 🤖 AI & Machine Learning Engineer | 📊 Generative AI Enthusiast
+### 🚀 Data Scientist | 🤖 AI Engineer | 🧠 Generative & Agentic AI Specialist
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate Data Science and Artificial Intelligence enthusiast pursuing a Bachelor of Computer Applications (BCA). With hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Generative AI, I enjoy building intelligent systems that transform data into actionable insights and business value.
+I am a Data Scientist and AI Engineer currently pursuing a Bachelor of Computer Applications (BCA). I specialize in transforming complex data into actionable insights and building intelligent, scalable AI applications. My core focus lies at the intersection of traditional Machine Learning and cutting-edge **Generative AI, Large Language Models (LLMs), and Agentic Workflows**.
 
-My expertise spans the complete AI development lifecycle, including data preprocessing, exploratory data analysis, feature engineering, predictive modeling, model deployment, and end-to-end AI application development. I actively build and ship production-style Generative AI applications — combining Retrieval-Augmented Generation (RAG), vector search, LLM APIs, authentication, containerization, and automated testing — rather than just experimenting in notebooks.
+My expertise spans the complete AI development lifecycle. I don't just experiment in notebooks; I actively build and ship production-ready Generative AI applications. My workflows combine **Retrieval-Augmented Generation (RAG), Vector Databases, LangChain/LangGraph orchestration, LLM APIs, containerization (Docker), and automated testing** to deliver autonomous, robust, and business-driven AI solutions.
 
 ---
 
 ## 💼 Professional Experience
 
 ### Data Science & AI Intern
+**WE RNS IT Solutions Pvt. Ltd.** | March 2026 – June 2026
 
-**RNS IT Solutions & Vaani AI** | March 2026 – June 2026
-
-* Developed Machine Learning and Deep Learning solutions using real-world datasets.
-* Built AI-powered chatbot applications leveraging NLP, Transformers, and Generative AI concepts.
-* Worked on Retrieval-Augmented Generation (RAG) systems for intelligent document search and question answering.
-* Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling.
-* Designed interactive dashboards and business intelligence reports using Power BI.
-* Collaborated on AI-driven applications and data-centric solutions for real-world business challenges.
+- **Predictive Modeling & EDA:** Performed extensive data cleaning, exploratory data analysis, and feature engineering to build robust machine learning models.
+- **Generative AI & NLP:** Developed AI-powered solutions utilizing Large Language Models (LLMs), prompt engineering, and Transformer-based architectures.
+- **RAG & Agentic Systems:** Worked on advanced Retrieval-Augmented Generation (RAG) systems for intelligent document search, question answering, and automated workflows.
+- **BI & Deployment:** Designed interactive dashboards and extracted actionable business insights using Python, SQL, and Power BI.
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📰 [News Summarizer — RAG-Powered AI Chatbot](https://github.com/abhishekchoudhary88/news-summarizer-rag)
-
-An end-to-end conversational AI application combining live news retrieval with generative AI. Fetches real-time news from multiple RSS sources (BBC, NDTV, Google News, Dainik Bhaskar, Rajasthan Patrika), embeds articles using sentence-transformers, indexes them in FAISS for semantic search, and generates grounded, source-attributed answers via the Gemini API — with a hybrid fallback to general knowledge when live news doesn't cover a topic.
-
-**Key highlights:**
-- Retrieval-Augmented Generation (RAG) pipeline with confidence-scored retrieval
-- Multi-turn conversation memory for natural follow-up questions
-- Email/password + Google OAuth authentication (PBKDF2-hashed passwords, SQLite)
-- Multi-session chat history, dynamic AI-generated suggested questions
-- Containerized with Docker, covered by a pytest test suite
-- Deployed live on Streamlit Community Cloud
-
-**Tech stack:** Python, Streamlit, FAISS, sentence-transformers, Gemini API, SQLite, Docker, pytest
-
----
+An end-to-end conversational AI application combining live news retrieval with generative AI. Fetches real-time news from multiple RSS sources, embeds articles using sentence-transformers, indexes them in FAISS for semantic search, and generates grounded answers via the Gemini API.
+- **Key Highlights:** Confidence-scored RAG pipeline, multi-turn conversation memory, Google OAuth authentication, dynamic AI suggestions.
+- **Tech Stack:** Python, Streamlit, FAISS, sentence-transformers, Gemini API, SQLite, Docker, pytest.
 
 ### 📄 [Resume Screener — NLP Resume-JD Matcher](https://github.com/abhishekchoudhary88/resume-screener)
-
-An NLP-based tool that compares a candidate's resume against a job description, returning a match percentage and highlighting missing keywords to help improve ATS (Applicant Tracking System) alignment.
-
-**Key highlights:**
-- PDF parsing and text preprocessing pipeline
-- TF-IDF vectorization + cosine similarity for semantic matching
-- Keyword gap analysis for actionable resume improvements
-- Deployed with Streamlit
-
-**Tech stack:** Python, Streamlit, scikit-learn, NLTK, PyPDF2
-
----
+An NLP-based tool that compares a candidate's resume against a job description, returning a match percentage and highlighting missing keywords to improve ATS alignment.
+- **Key Highlights:** PDF parsing, TF-IDF vectorization, cosine similarity, keyword gap analysis.
+- **Tech Stack:** Python, Streamlit, scikit-learn, NLTK, PyPDF2.
 
 ### 🎬 Movie Recommendation System
+Content-based recommendation engine using NLP, cosine similarity, and vectorization techniques deployed via Streamlit.
 
-Content-based recommendation engine using NLP, cosine similarity, and vectorization techniques with Streamlit deployment.
-
-### 💻 Laptop Price Prediction
-
-Machine Learning application utilizing feature engineering, model optimization, and deployment for accurate laptop price estimation.
-
-### 🚗 Cars24 Car Price Prediction
-
-Predictive analytics project for used car valuation using advanced regression models and data preprocessing techniques.
+### 💻 Laptop & Car Price Prediction
+Machine Learning applications utilizing advanced regression models, feature engineering, and model optimization for accurate valuations.
 
 ### 📊 Data Analytics Projects
-
-* Zomato Data Analysis
-* Netflix Movies Analysis
-* Life Expectancy Prediction
+Extensive Exploratory Data Analysis (EDA) on Zomato, Netflix, and Life Expectancy datasets to uncover deep business patterns.
 
 ---
 
 ## 🚀 Core Expertise
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🧠 Generative AI, LLMs & NLP
+- **Frameworks & Agents:** LangChain, LangGraph, Agentic Workflows, LlamaIndex
+- **Architecture:** Retrieval-Augmented Generation (RAG), Transformers (BERT, GPT), Prompt Engineering
+- **Models & Search:** Gemini, Claude, OpenAI API, Hugging Face, Vector Databases (FAISS, Chroma)
+- **NLP:** Text Preprocessing, TF-IDF, Sentiment Analysis, Conversational Memory Design
 
-* Supervised & Unsupervised Learning
-* Regression, Classification & Clustering
-* Feature Engineering & Model Optimization
-* Hyperparameter Tuning
-* Ensemble Learning Techniques
+### 🤖 Machine Learning & Deep Learning
+- **ML:** Supervised/Unsupervised Learning, Regression, Classification, Clustering, Ensemble Methods
+- **DL:** Artificial Neural Networks (ANN), CNNs, RNNs, LSTMs
+- **Libraries:** Scikit-Learn, TensorFlow, PyTorch
 
-### 🧠 Deep Learning
-
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* LSTM Networks
-* TensorFlow & PyTorch
-
-### 💬 NLP & Generative AI
-
-* Text Preprocessing & Vectorization (TF-IDF, embeddings)
-* Sentiment Analysis
-* Transformer Architectures (BERT, GPT)
-* Prompt Engineering
-* Large Language Models (LLMs) — Gemini, Claude
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases & Semantic Search (FAISS)
-* Sentence Embeddings (sentence-transformers)
-* Conversational Memory Design
-* AI Chatbot Development & Deployment
-
-### 📊 Data Analytics & Visualization
-
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Storytelling
-* Power BI & Tableau Dashboards
-* Matplotlib & Seaborn
-
-### 🏗️ Application Engineering & Deployment
-
-* REST API integration (LLM APIs, third-party services)
-* Authentication & Session Management (OAuth, password hashing)
-* SQL & SQLite database design
-* Unit Testing (pytest)
-* Containerization (Docker)
-* CI/CD-ready project structure
-* Cloud Deployment (Streamlit Community Cloud)
+### 📊 Data Analytics & Application Engineering
+- **Data & BI:** Pandas, NumPy, Power BI, Tableau, Matplotlib, Seaborn
+- **Engineering:** REST APIs, OAuth Auth, SQL/SQLite, Streamlit, Flask/FastAPI
+- **DevOps:** Docker Containerization, Git/GitHub, CI/CD Concepts, Pytest
 
 ---
 
 ## 🛠️ Technology Stack
 
-**Programming Languages**
-
-* Python
-* SQL
-
-**Libraries & Frameworks**
-
-* Pandas, NumPy, Scikit-learn
-* TensorFlow, PyTorch
-* sentence-transformers, FAISS
-* NLTK
-
-**Generative AI & LLMs**
-
-* Gemini API
-* Claude API
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* LangChain (learning)
-
-**Visualization Tools**
-
-* Power BI, Tableau
-* Matplotlib, Seaborn
-* Streamlit native charts
-
-**Development & DevOps Tools**
-
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Streamlit, Flask, FastAPI
-* Docker
-* pytest
+- **Languages:** Python, SQL
+- **AI & ML:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
+- **Gen AI:** LangChain, LangGraph, Gemini API, Claude API, FAISS, Hugging Face
+- **Data Viz:** Power BI, Tableau, Seaborn
+- **DevOps & Tools:** Docker, Git, VS Code, Jupyter, Streamlit, Pytest
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced Deep Learning Architectures
-* Transformer Models & Fine-Tuning
-* Agentic AI Systems & Multi-Agent Frameworks
-* MLOps & Model Deployment
-* Production-Ready Generative AI Applications
-* Cloud Databases (PostgreSQL/Supabase) for persistent app storage
-
----
-
-## 🎯 Career Objective
-
-To become an AI Engineer and Machine Learning Specialist capable of designing scalable, production-ready AI systems that solve complex real-world challenges through data, machine learning, and generative artificial intelligence.
+## 🌱 Currently Exploring
+- Advanced Multi-Agent Systems & Autonomous AI
+- MLOps (MLflow, Kubernetes) for scaling ML models
+- Cloud Deployment (AWS/GCP) for production-grade AI applications
+- Advanced Vector Databases (Pinecone, Qdrant)
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 Email: [abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303
-
-💻 GitHub: https://github.com/abhishekchoudhary88
-
-📸 Instagram: https://www.instagram.com/__abhiichoudhary
+📧 Email: [abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)  
+💼 LinkedIn: [Abhishek Choudhary](https://www.linkedin.com/in/abhishek-choudhary-65012a303)  
+💻 GitHub: [abhishekchoudhary88](https://github.com/abhishekchoudhary88)  
+📸 Instagram: [@__abhiichoudhary](https://www.instagram.com/__abhiichoudhary)  
 
 ---
-
 ### 💡 Motto
-
-*"Transforming Data into Intelligence and Building AI Solutions for the Future."***# Hi 👋, I'm Abhishek Choudhary
-
-### 🚀 Data Scientist | 🤖 AI & Machine Learning Engineer | 📊 Generative AI Enthusiast
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate Data Science and Artificial Intelligence enthusiast pursuing a Bachelor of Computer Applications (BCA). With hands-on experience in Machine Learning, Deep Learning, Data Analytics, and Generative AI, I enjoy building intelligent systems that transform data into actionable insights and business value.
-
-My expertise spans the complete AI development lifecycle, including data preprocessing, exploratory data analysis, feature engineering, predictive modeling, model deployment, and end-to-end AI application development. I actively build and ship production-style Generative AI applications — combining Retrieval-Augmented Generation (RAG), vector search, LLM APIs, authentication, containerization, and automated testing — rather than just experimenting in notebooks.
-
----
-
-## 💼 Professional Experience
-
-### Data Science & AI Intern
-
-**RNS IT Solutions & Vaani AI** | March 2026 – June 2026
-
-* Developed Machine Learning and Deep Learning solutions using real-world datasets.
-* Built AI-powered chatbot applications leveraging NLP, Transformers, and Generative AI concepts.
-* Worked on Retrieval-Augmented Generation (RAG) systems for intelligent document search and question answering.
-* Performed data preprocessing, exploratory data analysis (EDA), feature engineering, and predictive modeling.
-* Designed interactive dashboards and business intelligence reports using Power BI.
-* Collaborated on AI-driven applications and data-centric solutions for real-world business challenges.
-
----
-
-## 📂 Featured Projects
-
-### 📰 [News Summarizer — RAG-Powered AI Chatbot](https://github.com/abhishekchoudhary88/news-summarizer-rag)
-
-An end-to-end conversational AI application combining live news retrieval with generative AI. Fetches real-time news from multiple RSS sources (BBC, NDTV, Google News, Dainik Bhaskar, Rajasthan Patrika), embeds articles using sentence-transformers, indexes them in FAISS for semantic search, and generates grounded, source-attributed answers via the Gemini API — with a hybrid fallback to general knowledge when live news doesn't cover a topic.
-
-**Key highlights:**
-- Retrieval-Augmented Generation (RAG) pipeline with confidence-scored retrieval
-- Multi-turn conversation memory for natural follow-up questions
-- Email/password + Google OAuth authentication (PBKDF2-hashed passwords, SQLite)
-- Multi-session chat history, dynamic AI-generated suggested questions
-- Containerized with Docker, covered by a pytest test suite
-- Deployed live on Streamlit Community Cloud
-
-**Tech stack:** Python, Streamlit, FAISS, sentence-transformers, Gemini API, SQLite, Docker, pytest
-
----
-
-### 📄 [Resume Screener — NLP Resume-JD Matcher](https://github.com/abhishekchoudhary88/resume-screener)
-
-An NLP-based tool that compares a candidate's resume against a job description, returning a match percentage and highlighting missing keywords to help improve ATS (Applicant Tracking System) alignment.
-
-**Key highlights:**
-- PDF parsing and text preprocessing pipeline
-- TF-IDF vectorization + cosine similarity for semantic matching
-- Keyword gap analysis for actionable resume improvements
-- Deployed with Streamlit
-
-**Tech stack:** Python, Streamlit, scikit-learn, NLTK, PyPDF2
-
----
-
-### 🎬 Movie Recommendation System
-
-Content-based recommendation engine using NLP, cosine similarity, and vectorization techniques with Streamlit deployment.
-
-### 💻 Laptop Price Prediction
-
-Machine Learning application utilizing feature engineering, model optimization, and deployment for accurate laptop price estimation.
-
-### 🚗 Cars24 Car Price Prediction
-
-Predictive analytics project for used car valuation using advanced regression models and data preprocessing techniques.
-
-### 📊 Data Analytics Projects
-
-* Zomato Data Analysis
-* Netflix Movies Analysis
-* Life Expectancy Prediction
-
----
-
-## 🚀 Core Expertise
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* Supervised & Unsupervised Learning
-* Regression, Classification & Clustering
-* Feature Engineering & Model Optimization
-* Hyperparameter Tuning
-* Ensemble Learning Techniques
-
-### 🧠 Deep Learning
-
-* Artificial Neural Networks (ANN)
-* Convolutional Neural Networks (CNN)
-* Recurrent Neural Networks (RNN)
-* LSTM Networks
-* TensorFlow & PyTorch
-
-### 💬 NLP & Generative AI
-
-* Text Preprocessing & Vectorization (TF-IDF, embeddings)
-* Sentiment Analysis
-* Transformer Architectures (BERT, GPT)
-* Prompt Engineering
-* Large Language Models (LLMs) — Gemini, Claude
-* Retrieval-Augmented Generation (RAG)
-* Vector Databases & Semantic Search (FAISS)
-* Sentence Embeddings (sentence-transformers)
-* Conversational Memory Design
-* AI Chatbot Development & Deployment
-
-### 📊 Data Analytics & Visualization
-
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Data Storytelling
-* Power BI & Tableau Dashboards
-* Matplotlib & Seaborn
-
-### 🏗️ Application Engineering & Deployment
-
-* REST API integration (LLM APIs, third-party services)
-* Authentication & Session Management (OAuth, password hashing)
-* SQL & SQLite database design
-* Unit Testing (pytest)
-* Containerization (Docker)
-* CI/CD-ready project structure
-* Cloud Deployment (Streamlit Community Cloud)
-
----
-
-## 🛠️ Technology Stack
-
-**Programming Languages**
-
-* Python
-* SQL
-
-**Libraries & Frameworks**
-
-* Pandas, NumPy, Scikit-learn
-* TensorFlow, PyTorch
-* sentence-transformers, FAISS
-* NLTK
-
-**Generative AI & LLMs**
-
-* Gemini API
-* Claude API
-* Retrieval-Augmented Generation (RAG)
-* Prompt Engineering
-* LangChain (learning)
-
-**Visualization Tools**
-
-* Power BI, Tableau
-* Matplotlib, Seaborn
-* Streamlit native charts
-
-**Development & DevOps Tools**
-
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Streamlit, Flask, FastAPI
-* Docker
-* pytest
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Deep Learning Architectures
-* Transformer Models & Fine-Tuning
-* Agentic AI Systems & Multi-Agent Frameworks
-* MLOps & Model Deployment
-* Production-Ready Generative AI Applications
-* Cloud Databases (PostgreSQL/Supabase) for persistent app storage
-
----
-
-## 🎯 Career Objective
-
-To become an AI Engineer and Machine Learning Specialist capable of designing scalable, production-ready AI systems that solve complex real-world challenges through data, machine learning, and generative artificial intelligence.
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: [abhisekchoudhary88@gmail.com](mailto:abhisekchoudhary88@gmail.com)
-
-💼 LinkedIn: https://www.linkedin.com/in/abhishek-choudhary-65012a303
-
-💻 GitHub: https://github.com/abhishekchoudhary88
-
-📸 Instagram: https://www.instagram.com/__abhiichoudhary
-
----
-
-### 💡 Motto
-
-*"Transforming Data into Intelligence and Building AI Solutions for the Future."*
+*"Transforming Data into Intelligence and Building Autonomous AI Solutions for the Future."*
